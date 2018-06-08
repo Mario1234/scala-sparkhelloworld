@@ -1,0 +1,13 @@
+[info] Packaging C:\Users\EXCP0035\IdeaProjects\Spark1\target\scala-2.11\spark1_2.11-0.1.jar ...
+[debug] Input file mappings:
+[debug] 	Ejecutor$$anonfun$2.class
+[debug] 	  C:\Users\EXCP0035\IdeaProjects\Spark1\target\scala-2.11\classes\Ejecutor$$anonfun$2.class
+[debug] 	Ejecutor$$anonfun$1.class
+[debug] 	  C:\Users\EXCP0035\IdeaProjects\Spark1\target\scala-2.11\classes\Ejecutor$$anonfun$1.class
+[debug] 	Ejecutor.class
+[debug] 	  C:\Users\EXCP0035\IdeaProjects\Spark1\target\scala-2.11\classes\Ejecutor.class
+[debug] 	Ejecutor$.class
+[debug] 	  C:\Users\EXCP0035\IdeaProjects\Spark1\target\scala-2.11\classes\Ejecutor$.class
+[debug] 	Ejecutor$$anonfun$main$1.class
+[debug] 	  C:\Users\EXCP0035\IdeaProjects\Spark1\target\scala-2.11\classes\Ejecutor$$anonfun$main$1.class
+[info] Done packaging.
